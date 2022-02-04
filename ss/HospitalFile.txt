@@ -1,0 +1,7 @@
+Hosp01	Helen Joseph Hospital	HIV, Aids and Tuberculosis
+Hosp02	Netcare Milpark Hospital	cardiology and cardio-thoracic services
+Hosp03	Charlotte Maxeke Johannesburg	Academic Hospital	
+Hosp04	Netcare Garden City Hospital	Private Hospital
+Hosp05	Fordsburg clinic	General Hospital
+Hosp06	Nelson Mandela Children's Hospital (NMCH)	Pediatrics
+Hosp07	Chris Hani Baragwanath Academic Hosp	Emergency Hospital in Soweto

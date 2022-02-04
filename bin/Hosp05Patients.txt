@@ -1,0 +1,6 @@
+pat06	Tom	Dr6	disease3	e-banking	medicine2
+pat07	Jerry	Dr7	disease5	Cash	medicine3
+pat08	Jonathan	Dr8	disease5	Cash	medicine1
+pat09	Ben	Dr9	disease6	Cash	medicine4
+pat10	Nathan	Dr10	disease7	Cash	medicine5
+pat11	Paul	Dr11	disease6	Cash	medicine3

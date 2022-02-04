@@ -1,0 +1,3 @@
+pat12	Peter	Dr12	disease7	Medicalaid	medicine7
+pat13	Daniel	Dr13	disease2	Medicalaid	medicine6
+pat14	Ruan	Dr14	disease4	e-banking	medicine6

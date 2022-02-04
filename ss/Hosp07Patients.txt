@@ -1,0 +1,4 @@
+Pat01	John	Dr1	disease1	Medicalaid	medicine1
+Pat02	Tommy	Dr2	disease2	Cash	medicine4
+Pat03	Patrick	Dr3	disease3	Medicalaid	medicine3
+Pat04	Sydney	Dr4	disease4	e-banking	medicine2

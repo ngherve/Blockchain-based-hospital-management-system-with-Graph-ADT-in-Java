@@ -1,0 +1,4 @@
+pat09	Ben	Dr9	disease6	Cash	medicine4
+pat10	Nathan	Dr10	disease7	Cash	medicine5
+pat11	Paul	Dr11	disease6	Cash	medicine3
+pat12	Peter	Dr12	disease7	Medicalaid	medicine7

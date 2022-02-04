@@ -1,0 +1,5 @@
+Pat04	Sydney	Dr4	disease4	e-banking	medicine2
+pat05	Mark	Dr5	disease1	e-banking	medicine5
+pat06	Tom	Dr6	disease3	e-banking	medicine2
+pat07	Jerry	Dr7	disease5	Cash	medicine3
+pat08	Jonathan	Dr8	disease5	Cash	medicine1
